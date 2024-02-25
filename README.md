@@ -20,6 +20,12 @@ Getting started with Ollama and self hosting Large Language Models for local AI 
 * To chat with LLM from terminal, open command prompt and type: `ollama run llama2`
 * Use Ctrl + d or /bye to exit
 
-## Usage in Python
+## Usage with Ollama Python Library (https://github.com/ollama/ollama-python)
 * Activate Conda environment with `conda activate llm`
-* Run script
+* Run `pip install ollama` on terminal
+* Run 
+
+## Usage with llamaindex (https://www.llamaindex.ai/)
+* Run `pip install llama-index` on terminal
+* If you get `Microsoft Visual C++ 14.0 or greater is required` error , try the solution provided here: https://github.com/Akshay-Dongare/Error-Cpp-Build-Tools
+* Run 
