@@ -12,7 +12,7 @@ Getting started with Ollama and self hosting Large Language Models for local AI 
 
 ## Run Ollama Installer
 * Double-click the installer, `OllamaSetup.exe`
-* Once installed, go to command prompt and pull any LLM of your choice: `ollama pull llama2`
+* Once installed, go to command prompt and pull any LLM of your choice: `ollama pull llama2` (Size: 3.8GB)
 * Once LLM is downloaded it will automatically be served on 'http://localhost:11434' (Ollama’s API automatically runs in the background, serving on `http://localhost:11434`. Tools and applications can connect to it without any additional setup.)
 * To serve LLM manually, type in terminal: `ollama serve`
 ## Choice of model:
