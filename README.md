@@ -20,6 +20,8 @@ Getting started with Ollama and self hosting Large Language Models for local AI 
 ## Running from Terminal
 * To chat with LLM from terminal, open command prompt and type: `ollama run llama2`
 * Use Ctrl + d or /bye to exit
+  ### Display the model file
+  * `ollama show llama2 --modelfile
 
 ## Usage with Ollama Python Library (https://github.com/ollama/ollama-python)
 * Activate Conda environment with `conda activate llm`
