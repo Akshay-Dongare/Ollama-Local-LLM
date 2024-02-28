@@ -45,8 +45,8 @@ Getting started with Ollama and self hosting Large Language Models for local AI 
 
 ## Usage with Ollama Python Library (https://github.com/ollama/ollama-python)
 * Activate Conda environment with `conda activate llm`
-* Run `pip install ollama` on terminal
 * Check out the starter code in this repo at: `./ollama-python.ipynb` 
 
 ## Usage with llamaindex (https://www.llamaindex.ai/)
+* Activate Conda environment with `conda activate llm`
 * Check out the starter code in this repo at: `./ollama-llamaindex.ipynb` 
