@@ -1,3 +1,4 @@
+notebook
 llama-index
 ollama
-notebook
+llama-index-llms-ollama # You need to install the ollama instance inside llama index seperately (pip install ollama only gives us the ollama-python library)
