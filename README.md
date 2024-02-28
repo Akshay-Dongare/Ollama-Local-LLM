@@ -40,3 +40,4 @@ Getting started with Ollama and self hosting Large Language Models for local AI 
 * Run `pip install llama-index` on terminal
 * If you get `Microsoft Visual C++ 14.0 or greater is required` error , try the solution provided here: https://github.com/Akshay-Dongare/Error-Cpp-Build-Tools
 * Check out the starter code in this repo at: `./ollama-llamaindex.ipynb` 
+* Source: https://docs.llamaindex.ai/en/stable/examples/llm/ollama.html
