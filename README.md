@@ -29,6 +29,7 @@ Getting started with Ollama and self hosting Large Language Models for local AI 
 ## Choice of model:
 * Ollama supports numerous models from https://ollama.com/library
 * To view downloaded or manually created models, in terminal: `ollama list`
+* To remove a model: `ollama rm llama2`
   
 ## Running from Terminal
 * To chat with LLM from terminal, open command prompt and type: `ollama run llama2`
